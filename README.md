@@ -5,4 +5,4 @@ Solidity learning materials in one place
 Solidity's code is encapsulated in **contracts**.
 **contract** is fundamental building block of application that run on EVM.
 
-**pragma** define which Solidity complier code should use. First line in `observingPool` contract in this repo.
+**pragma** define which Solidity complier code should use. First line in `ObservingPool` contract in this repo.
